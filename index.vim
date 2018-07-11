@@ -1,5 +1,4 @@
 let s:random = {}
-let g:_random = s:random
 
 let s:seed = (and(localtime(), 0xFFFFFF) % 28131 ) + (and(localtime(),0xFFF) * and(localtime(),0xFFF)  - 7131) 
 
