@@ -9,7 +9,7 @@ embracing the randomness
 
 > Plug 'gu-fan/random.vim'
 
-Basically, you don't need install it
+Gernerally, you don't need install it
 it will be installed by plugin require it
 
 
