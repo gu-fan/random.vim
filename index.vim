@@ -68,9 +68,9 @@ fun! s:random.uid() dict
         \ . s:random.str(5)
 endfun
 
-" 100 / 8  = 12 , 4
+" 100 / 8  = 12   ,   4
 " =>  12 / 8  = 1 , 4
-" => 1 4 4 
+" =>      1 4 4 
 fun! s:base36(nr)
     let k = a:nr / 36
     let v = a:nr % k
