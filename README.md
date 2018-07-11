@@ -1,6 +1,6 @@
 # random.vim
 
-it's random
+embracing the randomness
 
 
 ## Install
