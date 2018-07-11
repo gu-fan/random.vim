@@ -5,9 +5,12 @@ embracing the randomness
 
 ## Install
 
-Plug 'gu-fan/require.vim'
+> Plug 'gu-fan/require.vim'
 
-Plug 'gu-fan/random.vim'
+> Plug 'gu-fan/random.vim'
+
+Basically, you don't need install it
+it will be installed by plugin require it
 
 
 ## Usage
